@@ -2,6 +2,9 @@
  
 A collection of **12 pure CSS loading animations** — no JavaScript, no dependencies, no build step. Just copy a single file and drop it in.
 
+🔗 **[Live Demo → deepa-sudo.github.io/css-loaders](https://deepa-sudo.github.io/css-loaders/)**
+
+ 
 ### Open the showcase
  
 Open `index.html` in your browser to see all 12 loaders live, browse by category, and copy the CSS + HTML for any loader with one click.
